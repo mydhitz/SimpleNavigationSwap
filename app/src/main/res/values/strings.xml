@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Simple Navigation Swap</string>
+    <string name="mobil1">Mobil ini cuma di produksi 9 unit didunia dengan mesin
+        V12 berkapasitas 6, 5 liter. Veneno Roadster dapat melesat dari 0-100 km/jam
+        kurun waktu dibawah tiga detik.Untuk kecepatan optimal, supercar ini dapat
+        melesat sampai 355 km/jam. Veneno Roadster di bandrol dengan harga US$5,
+        6 juta atau setara Rp72, 5 miliar.
+    </string>
+
+    <string name="mobil2">Sportcar ini mempunyai mesinV12 berkapasitas 6, 5 liter
+        yang dapat menyemburkan tenaga sampai 740 HP. Veneno dapat melesat dari posisi
+        diam sampai kecepatan 100 km/jam cuma dalam tempo 2, 8 detik. Dengan transmisi
+        7-percepatan semi-otomatis, mobil seharga US$5, 3 juta atau seputar Rp68 miliar
+        ini dapat dibawa lari sampai kecepatan puncak 354 km/jam.
+    </string>
+
+    <string name="mobil3">Seperti namanya, Egoista, design mobil ini betul-betul sangatlah
+        egois. Terkecuali cuma bisa menyimpan satu penumpang saja, untuk masuk ke mobil ini
+        pengemudi mesti lompat terlebih dulu lantaran tak disiapkan pintu masuk dari segi
+        kanan serta kiri mobil. Pengemudi cuma dapat masuk ke kokpit mobil melalui kaca
+        depan yang berupa seperti kaca pesawat tempur. Lamborghini Egoista ada dengan
+        mengusung mesin V10 berkapasitas 5, 2 liter dengan harga US$3 juta atau setara
+        dengan Rp39 miliar.
+    </string>
+
+    <string name="mobil4">Mobil ini pertama kali dipertunjukkan di Paris Motor Show th.
+        2010 lantas. Lamborghini Sesto Elemento Concept membuahkan tenaga 570 ponsel
+        dengan top speed 350 kpj dan mesin V10. Akselerasi 0-100 ditempuh kurun waktu 2,5
+        detik. Dengan mesin bertenaga yang disalurkan ke transmisi 6-percepatan, supercar
+        ini dapat melesat sampai kecepatan puncak 297 km/jam. Di buat dengan bodi full
+        carbon spesial, Lamborghini Sesto Elemento cuma di buat sejumlah 20 unit saja
+        dengan harga US$ 2, 8 juta atau setara Rp 36 miliar.
+    </string>
+
+    <string name="mobil5">Aventador J ini dibekali mesin 6. 5-liter, 12 silinder yang
+        dapat menyemburkan daya maksimum 700 tenaga kuda serta dapat lari kian lebih
+        297 km/jam. Design eksterior serta interiornya di buat eksklusif, mengingat
+        supercar ini cuma ada satu. Di desain oleh Filippo Perini, supercar ini di desain
+        serta di buat kurun waktu enam minggu saja, yang di bandrol dengan harga US$2,8
+        juta setara dengan Rp36 miliar.
+    </string>
+</resources>
